@@ -1,0 +1,5 @@
+,Accuracy,F1 (weighted),F1 (macro)
+TF-IDF + XGBoost,0.8722,0.8663,0.8444
+mBERT,0.98,0.98,0.97
+IndicBERTv2,0.98,0.98,0.98
+MuRIL (Proposed),0.9761,0.9761,0.973

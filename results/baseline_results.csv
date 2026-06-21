@@ -1,0 +1,4 @@
+,Accuracy,F1 (weighted),F1 (macro),Precision,Recall
+TF-IDF + XGBoost,0.8722,0.8663,0.8444,0.88,0.87
+mBERT,0.98,0.98,0.97,0.98,0.98
+IndicBERTv2,0.98,0.98,0.98,0.98,0.98
